@@ -54,6 +54,10 @@
 		D9126FC52113E8E500F211F9 /* WorkoutSquirreLZ */ = {
 			isa = PBXGroup;
 			children = (
+				D9126FDB2113EA1800F211F9 /* Utilities */,
+				D9126FDA2113EA1300F211F9 /* Model */,
+				D9126FD92113EA0B00F211F9 /* View */,
+				D9126FD82113E9FC00F211F9 /* Controller */,
 				D9126FC62113E8E500F211F9 /* AppDelegate.swift */,
 				D9126FC82113E8E500F211F9 /* ViewController.swift */,
 				D9126FCA2113E8E500F211F9 /* Main.storyboard */,
@@ -62,6 +66,34 @@
 				D9126FD22113E8E600F211F9 /* Info.plist */,
 			);
 			path = WorkoutSquirreLZ;
+			sourceTree = "<group>";
+		};
+		D9126FD82113E9FC00F211F9 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		D9126FD92113EA0B00F211F9 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		D9126FDA2113EA1300F211F9 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		D9126FDB2113EA1800F211F9 /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Utilities;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
